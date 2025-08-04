@@ -18,9 +18,7 @@ This project focuses on analyzing and visualizing Diwali sales data to uncover i
   - Age Group vs Sales
   - Top 10 States by Total Sales
   - Top 10 Most Sold Products
-- Derived actionable insights to improve festive campaign strategies.
-
-📥 [Download Diwali Sales Analysis Notebook](https://github.com/bindurag1807/diwali-sales-analysis-python/raw/main/Diwali_Sales_Analysis.ipynb)
+- Derived actionable insights to improve festive campaign stratergy
 
 
 
