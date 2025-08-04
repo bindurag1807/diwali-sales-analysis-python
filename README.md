@@ -20,6 +20,10 @@ This project focuses on analyzing and visualizing Diwali sales data to uncover i
   - Top 10 Most Sold Products
 - Derived actionable insights to improve festive campaign strategies.
 
-📥 https://github.com/bindurag1807/Diwali-Sales-Analysis-Using-Python/raw/main/Diwali_sales_Analysis.ipynb
+## 🔗 Project Links
+
+ 
+📥 [Download Diwali Sales Analysis Notebook](https://github.com/bindurag1807/Diwali-Sales-Analysis-Using-Python/raw/main/Diwali_sales_Analysis.ipynb)
+
 
 
