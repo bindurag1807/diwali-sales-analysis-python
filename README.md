@@ -23,9 +23,8 @@ This project focuses on analyzing and visualizing Diwali sales data to uncover i
 
 
  
-## 🔗 Project Links
+https://github.com/bindurag1807/Diwali-Sales-Analysis-Using-Python/raw/main/Diwali_sales_Analysis.ipynb
 
-📥 [Download Diwali Sales Analysis Notebook](https://github.com/bindurag1807/Diwali-Sales-Analysis-Using-Python/raw/main/Diwali_sales_Analysis.ipynb)
 
 
 
