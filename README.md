@@ -2,6 +2,10 @@
 
 This project focuses on analyzing and visualizing Diwali sales data to uncover insights that can help businesses optimize their marketing and sales strategies during the festive.
 
+# Project Overview
+
+The project uses Python libraries like **pandas**, **NumPy**, **Matplotlib**, and **Seaborn** to clean, explore, and visualize the sales data.
+
 
 
 ## Project link
