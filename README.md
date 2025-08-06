@@ -15,7 +15,8 @@ This project focuses on analyzing and visualizing Diwali sales data to uncover i
 - Derived actionable insights to improve festive campaign stratergy
 
 ## Project link
-[Diwali Sales Analysis Project](https://github.com/bindurag1807/diwali-sales-analysis-python)
+[Download Diwali Sales Analysis Project](https://github.com/bindurag1807/diwali-sales-analysis-python/archive/refs/heads/main.zip)
+
 
 
 
